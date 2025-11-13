@@ -1,2 +1,2 @@
-# Crazy-tech-md
+# Crazy-tech-md-bot
 Multiple WhatsApp bot v1
